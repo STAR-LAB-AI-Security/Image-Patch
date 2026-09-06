@@ -1,0 +1,7 @@
+# 目标检测对抗贴片基准（Baseline）运行依赖
+# 仅需 CPU 即可跑通攻击/防御终端脚本（检测器与贴片优化均为轻量 torch 模型）
+numpy>=1.24
+torch>=2.0
+torchvision>=0.15
+Pillow>=9.0
+scikit-learn>=1.3
