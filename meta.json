@@ -1,0 +1,22 @@
+{
+  "workDirId": "mv879ys2yj952h",
+  "branch": "atk-ashik1748",
+  "uploaderBranch": true,
+  "githubAccount": "ashik-1748",
+  "displayName": "ASHIKUZZAMAN MD",
+  "scenario": "patch_attack",
+  "role": "solo_attack",
+  "userId": "180387df-34da-47bf-9127-97ce2f06f9ba",
+  "version": 4,
+  "originalZipName": "patchguard_managed_submission_fixed.zip",
+  "archivedZip": true,
+  "uploadedAt": "2026-10-14T14:23:35.933Z",
+  "files": [
+    "README.md",
+    "attack-blank.py",
+    "dataset.py",
+    "requirements.txt",
+    "patchguard_managed_submission_fixed.zip"
+  ],
+  "skippedLargeFiles": []
+}
