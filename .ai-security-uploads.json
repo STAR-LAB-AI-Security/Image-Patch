@@ -1,0 +1,15 @@
+{
+  "workDirId": "mv879ys2yj952h",
+  "scenario": "patch_attack",
+  "role": "solo_attack",
+  "version": 4,
+  "uploadedAt": "2026-10-14T14:23:57.602Z",
+  "files": [
+    "README.md",
+    "attack-blank.py",
+    "dataset.py",
+    "requirements.txt",
+    "patchguard_managed_submission_fixed.zip",
+    "meta.json"
+  ]
+}
